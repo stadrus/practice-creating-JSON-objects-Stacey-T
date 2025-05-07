@@ -1,0 +1,12 @@
+{
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "isAvailable": true,
+    "genres": ["Crime", "Drama", "Horror", "Thriller"],
+    "cast": [
+        {"actor": "Jodie Foster",
+        "role": "Lead" },
+        {"actor": "Anthony Hopkins",
+        "role": "Lead" }
+    ]
+}
